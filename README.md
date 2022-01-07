@@ -1,6 +1,14 @@
 # crispy-journey
 >***Bigdata Project utilizing RAPID MINER AND ML Algorithm***
->***The purpose of this project was to implement the Bigdata skillset in order to perform the Train,validate and test the analystics model with different segments of Data***
+***PROJECT PURPOSE :***>***The purpose of this project was to implement the Bigdata skillset in order to perform the Train,validate and test the analystics model with different segments of Data***
+***Technologies Used:***
+- GCP/AWS INSTANCE
+- HADOOP
+- LINUX
+- HIVE/PIG
+- EXCEL
+- RAPIDMINER
+
 
 
 - 1. This project was to fetch a representative sample of records from different  years between 1993 to 2009,most likely a sample consisting between 45,000 to       60,000 records per year.
