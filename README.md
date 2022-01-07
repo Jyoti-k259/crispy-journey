@@ -26,4 +26,4 @@
 - 6.	Train, validate and test the analytics model with different segments of your sample data
 ![image](https://user-images.githubusercontent.com/57934790/148499054-705dc280-d3c0-4f57-adc1-e0863b7b3e5b.png)
 
-![image](https://user-images.githubusercontent.com/57934790/148499668-3923cded-82b8-44d1-8344-b2f7183f5599.png)
+![Approach for Data Modelling](https://user-images.githubusercontent.com/57934790/148499668-3923cded-82b8-44d1-8344-b2f7183f5599.png)
