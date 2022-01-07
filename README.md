@@ -2,7 +2,7 @@
 
 >***Bigdata Project utilizing RAPID MINER AND ML Algorithm***
 
-***PROJECT PURPOSE :*** >***The purpose of this project was to implement the Bigdata skillset in order to perform the Train,validate and test the analystics model with different segments of Data***
+>***PROJECT PURPOSE :The purpose of this project was to implement the Bigdata skillset in order to perform the Train,validate and test the analystics model with different segments of Data***
 
 ***Technologies Used:***
 - GCP/AWS INSTANCE
