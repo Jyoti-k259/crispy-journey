@@ -3,9 +3,9 @@
 >***The purpose of this project was to implement the Bigdata skillset in order to perform the Train,validate and test the analystics model with different segments of Data***
 
 
-- 1. This project was to fetch a representative sample of records from different  years between 1993 to 2009,most likely a sample consisting between 45,000 to - 60,000 records per year.
+- 1. This project was to fetch a representative sample of records from different  years between 1993 to 2009,most likely a sample consisting between 45,000 to       60,000 records per year.
 
-- 2.	 Load it  into Hadoop as a Combined Years table
+- 2.	Load it  into Hadoop as a Combined Years table
 
 - 3.	Add a new column called Delayed to the Combined Years table.
 
