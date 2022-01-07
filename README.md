@@ -9,7 +9,7 @@
 - EXCEL
 - RAPIDMINER
 
-
+**Following set of tasks were accomplished for the project:**
 
 - 1. This project was to fetch a representative sample of records from different  years between 1993 to 2009,most likely a sample consisting between 45,000 to       60,000 records per year.
 
